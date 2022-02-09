@@ -2,7 +2,7 @@ package com.example.logutils;
 
 import android.util.Log;
 
-public class LogUtil {
+public class LogUtilG {
     private final static String TAG="LogM" ;
 
     public static void loginCat(String s){
